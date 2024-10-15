@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Dhruv
-- 👀 I’m interested in Data Structures Analysis
+- 👀 I’m interested in Neutral Networks and Deep Learning 
 - 🌱 I’m currently learning Express APIs
 - 💞️ I’m looking to collaborate on Big Data Projects
 - 📫 How to reach me dhruvshah844@gmail.com
